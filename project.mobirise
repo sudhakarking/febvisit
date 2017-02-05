@@ -54,7 +54,9 @@
               "color": "#cccccc"
             },
             ".btn": {
-              "font-size": "13px"
+              "font-size": "10px",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
             }
           },
           "_anchor": "header4-0",
@@ -81,7 +83,7 @@
           },
           "title": "COGNIZANT VISIT<br>",
           "text": "FEBRUARY, 2017<br>MBP, BENGALURU, INDIA",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html#map1-a\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span>LOCATION</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html#slider-7\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>AGENDA</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#header6-8\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>VIDEO</a> "
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html#slider-7\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>agenda</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html#header6-8\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>video</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#map1-a\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span>location</a> "
         },
         {
           "_inherit": "menu",
@@ -168,7 +170,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp;</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#map1-a\">LOCATION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider-7\">AGENDA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header6-8\">VIDEO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-0\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider-7\">AGENDA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header6-8\">VIDEO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#map1-a\">LOCATION</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [

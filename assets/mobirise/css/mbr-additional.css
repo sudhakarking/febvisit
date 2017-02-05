@@ -1,8 +1,10 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
 
 
 
@@ -429,7 +431,8 @@ h6,
   color: #cccccc;
 }
 #header4-0 .btn {
-  font-size: 13px;
+  font-size: 10px;
+  font-family: 'Lato', sans-serif;
 }
 #ext_menu-1 .hide-buttons .nav-btn {
   display: none !important;
